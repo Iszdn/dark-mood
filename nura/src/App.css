@@ -1,0 +1,23 @@
+/* :root{
+  --main-bg-color:white;
+  --main-text-color:black;
+  --secondary-bg-color:lightpink;
+  --secondary-text-color:white;
+}
+.dark{
+  --main-bg-color:black;
+  --main-text-color:white;
+  --secondary-bg-color:violet;
+  --secondary-text-color:black;
+}
+body{
+  background-color: var(--main-bg-color);
+  color:var(--secondary-text-color)
+}
+button{
+  background-color: var(--secondary-bg-color);
+  color: white;
+  margin: 20px;
+  padding: 40px;
+
+} */
